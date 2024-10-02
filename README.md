@@ -37,4 +37,6 @@ Trip Destination: Drivers without an urgent destination show a higher rate of co
 Tools and Libraries:
 The project leverages Python’s pandas for data manipulation, matplotlib and seaborn for visualization, numpy for numerical operations, and the analysis was conducted in a Jupyter Notebook environment.
 
+The workbook can be found here: https://github.com/jasonforrester/AIML/blob/main/jf-5_1.ipynb
+
 By applying this structured AI methodology, the project identifies key behavioral and demographic drivers of coupon acceptance, providing insights that can guide targeted coupon marketing strategies.
